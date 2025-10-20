@@ -25,4 +25,4 @@ This script requires root/administrator privileges to run (for ARP and SYN scans
 
 **Linux / macOS:**
 ```bash
-sudo python3 ip_scan_v3.py
+sudo python3 ipscan.py
