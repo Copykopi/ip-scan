@@ -134,7 +134,7 @@ def scan_port_syn(ip, port):
 if __name__ == "__main__":
     
     print(C_JUDUL + "\n" + "="*55)
-    print("           IP SCAN TOOLS BY COPYKOPI     ")
+    print("           IP SCAN TOOLS BY Nyx     ")
     print("    (Network Scanner + OS/Service/Vendor Detection)")
     print(C_JUDUL + "="*55)
     
