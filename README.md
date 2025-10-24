@@ -1,4 +1,4 @@
-# IP SCAN TOOLS BY COPYKOPI 
+# IP SCAN TOOLS BY Nyx 
 A powerful network scanner built with Python, Scapy, and Colorama.
 This tool performs ARP scans to discover hosts, TCP SYN scans for ports, and grabs banners/OS info.
 
@@ -13,7 +13,7 @@ This tool performs ARP scans to discover hosts, TCP SYN scans for ports, and gra
 ## Installation
 1.  Clone this repository:
     ```bash
-    git clone https://github.com/Copykopi/ip-scan.git
+    https://github.com/Nyx-Developer/ip-scan.git
     ```
 2.  Install required libraries:
     ```bash
